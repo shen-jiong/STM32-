@@ -5,6 +5,8 @@
 #include "stm32f10x_rcc.h"
 #include "Systick.h"
 
+//添加测试
+
 //led灯的引脚的初始化
 void key_init(void)
 {
